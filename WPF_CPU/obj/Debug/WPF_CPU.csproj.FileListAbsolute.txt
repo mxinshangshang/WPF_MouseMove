@@ -1,0 +1,13 @@
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\obj\Debug\WPF_CPU.csprojResolveAssemblyReference.cache
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\obj\Debug\MainWindow.baml
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\obj\Debug\MainWindow.g.cs
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\obj\Debug\App.g.cs
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\obj\Debug\WPF_CPU.csproj.GenerateResource.Cache
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\bin\Debug\MouseMove Performance.exe.config
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\bin\Debug\MouseMove Performance.exe
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\bin\Debug\MouseMove Performance.pdb
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\obj\Debug\MouseMove Performance_MarkupCompile.cache
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\obj\Debug\MouseMove Performance.g.resources
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\obj\Debug\MouseMove_Performance.Properties.Resources.resources
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\obj\Debug\MouseMove Performance.exe
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\obj\Debug\MouseMove Performance.pdb

@@ -1,0 +1,6 @@
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\bin\Debug\MouseMove Performance.exe.config
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\obj\Debug\MouseMove Performance.exe
+C:\Users\jiang\Desktop\WPF_CPU\WPF_CPU\obj\Debug\MouseMove Performance.pdb
+C:\Users\jiang\Desktop\MouseMove_Performance\WPF_CPU\bin\Debug\MouseMove Performance.exe.config
+C:\Users\jiang\Desktop\MouseMove_Performance\WPF_CPU\obj\Debug\MouseMove Performance.exe
+C:\Users\jiang\Desktop\MouseMove_Performance\WPF_CPU\obj\Debug\MouseMove Performance.pdb
